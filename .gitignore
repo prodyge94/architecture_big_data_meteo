@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+logs/
+data/
+spark-warehouse/
+metastore_db/
+derby.log
+mlruns/
+.idea/
+.vscode/

@@ -1,0 +1,10 @@
+pyspark==3.5.5
+numpy==1.26.4
+pandas==2.2.3
+pyarrow==17.0.0
+requests==2.32.3
+boto3==1.35.36
+confluent-kafka==2.6.0
+psycopg2-binary==2.9.10
+mlflow-skinny==2.17.2
+pytest==8.3.3
